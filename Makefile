@@ -38,6 +38,6 @@ fclean: clean
 
 re: fclean all
 
-ha : all clean
+ha : all bonus clean
 
 .PHONY: all clean fclean re ha
